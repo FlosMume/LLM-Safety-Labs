@@ -1,4 +1,4 @@
-# LLM Safety Labs — Week 8 (AI Safety Demos)
+# LLM Safety Labs — AI Safety Demos
 
 > Pin-ready, job-facing repo showcasing AI Safety concepts: hallucination detection, jailbreak prevention, and bias checks for LLMs.
 
@@ -30,4 +30,4 @@ python advanced_jailbreak_tests.py
 
 ## Suggested repo names
 - `llm-safety-labs`
-- `module8-llm-safety-demos`
+- `llm-safety-demos`
