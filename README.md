@@ -31,3 +31,17 @@ python advanced_jailbreak_tests.py
 ## Suggested repo names
 - `llm-safety-labs`
 - `llm-safety-demos`
+
+## 🔒 Technical Verification
+This repository showcases the documented and structural components of my AI Safety project.
+
+The complete functional implementation (including runnable demos, model wrappers,
+and evaluation scripts) is available upon request.
+The project has been successfully tested locally with:
+- RTX 4070 SUPER GPU (CUDA 12.8)
+- PyTorch 2.5 + cu121
+- OpenAI API v1.0+
+
+For verification, please refer to:
+- UML diagram (`docs/uml_overview.svg`)
+- Recorded execution screenshots and terminal logs in `/docs/demo_evidence/`(to be posted)
