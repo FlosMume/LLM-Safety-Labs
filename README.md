@@ -15,7 +15,7 @@ conda create -n proj8venv python=3.10.8 -y
 conda activate proj8venv
 pip install --upgrade pip wheel setuptools
 pip install -r requirements.txt
-python -m ipykernel install --user --name mod8venv --display-name "Python (mod8venv)"
+python -m ipykernel install --user --name proj8venv --display-name "Python (mod8venv)"
 ```
 Create a `.env` file with `OPENAI_API_KEY=...`
 
