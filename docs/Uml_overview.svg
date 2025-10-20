@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="1190" viewBox="0 0 1180 1190">
+<rect x="0" y="0" width="1180" height="1190" fill="white" stroke="none"/>
+<text x="40" y="28" font-family="Arial" font-size="20" fill="#111">Module 8 UML Overview (Modules → classes &amp; functions; dashed arrows = imports)</text>
+<rect x="40" y="40" width="520" height="140" fill="#f8fafc" stroke="#94a3b8" rx="12" ry="12"/>
+<rect x="40" y="40" width="520" height="36" fill="#e2e8f0" stroke="#94a3b8" rx="12" ry="12"/>
+<text x="52" y="64" font-family="Arial" font-size="15" font-weight="bold" fill="#0f172a">additional_hallucination_tests</text>
+<text x="52" y="96" font-family="Arial" font-size="13" fill="#334155">Functions</text>
+<text x="64" y="114" font-family="Courier New" font-size="12" fill="#0f172a">• run_comprehensive_hallucination_tests()</text>
+<rect x="620" y="40" width="520" height="140" fill="#f8fafc" stroke="#94a3b8" rx="12" ry="12"/>
+<rect x="620" y="40" width="520" height="36" fill="#e2e8f0" stroke="#94a3b8" rx="12" ry="12"/>
+<text x="632" y="64" font-family="Arial" font-size="15" font-weight="bold" fill="#0f172a">advanced_jailbreak_tests</text>
+<text x="632" y="96" font-family="Arial" font-size="13" fill="#334155">Functions</text>
+<text x="644" y="114" font-family="Courier New" font-size="12" fill="#0f172a">• run_advanced_jailbreak_tests()</text>
+<rect x="40" y="240" width="520" height="372" fill="#f8fafc" stroke="#94a3b8" rx="12" ry="12"/>
+<rect x="40" y="240" width="520" height="36" fill="#e2e8f0" stroke="#94a3b8" rx="12" ry="12"/>
+<text x="52" y="264" font-family="Arial" font-size="15" font-weight="bold" fill="#0f172a">ai_safety_demos</text>
+<text x="52" y="296" font-family="Arial" font-size="13" fill="#334155">Classes</text>
+<text x="64" y="314" font-family="Courier New" font-size="12" fill="#0f172a">• BiasDetector</text>
+<text x="64" y="330" font-family="Courier New" font-size="12" fill="#0f172a">• BiasMetrics</text>
+<text x="64" y="346" font-family="Courier New" font-size="12" fill="#0f172a">• CitationValidator</text>
+<text x="64" y="362" font-family="Courier New" font-size="12" fill="#0f172a">• ConfidenceScorer</text>
+<text x="64" y="378" font-family="Courier New" font-size="12" fill="#0f172a">• CulturalSensitivityAnalyzer</text>
+<text x="64" y="394" font-family="Courier New" font-size="12" fill="#0f172a">• FactualVerifier</text>
+<text x="64" y="410" font-family="Courier New" font-size="12" fill="#0f172a">• JailbreakDetector</text>
+<text x="64" y="426" font-family="Courier New" font-size="12" fill="#0f172a">• LegacyModelDemo</text>
+<text x="64" y="442" font-family="Courier New" font-size="12" fill="#0f172a">• RiskLevel</text>
+<text x="64" y="458" font-family="Courier New" font-size="12" fill="#0f172a">• SafeAIWrapper</text>
+<text x="64" y="474" font-family="Courier New" font-size="12" fill="#0f172a">• SafetyFilter</text>
+<text x="64" y="490" font-family="Courier New" font-size="12" fill="#0f172a">• SafetyResponse</text>
+<text x="64" y="506" font-family="Courier New" font-size="12" fill="#0f172a">• VerificationResult</text>
+<text x="52" y="528" font-family="Arial" font-size="13" fill="#334155">Functions</text>
+<text x="64" y="546" font-family="Courier New" font-size="12" fill="#0f172a">• demonstrate_ai_safety_issues()</text>
+<rect x="620" y="240" width="520" height="140" fill="#f8fafc" stroke="#94a3b8" rx="12" ry="12"/>
+<rect x="620" y="240" width="520" height="36" fill="#e2e8f0" stroke="#94a3b8" rx="12" ry="12"/>
+<text x="632" y="264" font-family="Arial" font-size="15" font-weight="bold" fill="#0f172a">better_hallucination_tests</text>
+<text x="632" y="296" font-family="Arial" font-size="13" fill="#334155">Functions</text>
+<text x="644" y="314" font-family="Courier New" font-size="12" fill="#0f172a">• run_hallucination_triggering_tests()</text>
+<rect x="40" y="672" width="520" height="210" fill="#f8fafc" stroke="#94a3b8" rx="12" ry="12"/>
+<rect x="40" y="672" width="520" height="36" fill="#e2e8f0" stroke="#94a3b8" rx="12" ry="12"/>
+<text x="52" y="696" font-family="Arial" font-size="15" font-weight="bold" fill="#0f172a">chatgpt_api_safety_demo</text>
+<text x="52" y="728" font-family="Arial" font-size="13" fill="#334155">Classes</text>
+<text x="64" y="746" font-family="Courier New" font-size="12" fill="#0f172a">• EnhancedSafetyWrapper</text>
+<text x="64" y="762" font-family="Courier New" font-size="12" fill="#0f172a">• JailbreakResistanceTest</text>
+<text x="64" y="778" font-family="Courier New" font-size="12" fill="#0f172a">• ModelVersion</text>
+<text x="64" y="794" font-family="Courier New" font-size="12" fill="#0f172a">• SafeAPIResponse</text>
+<text x="52" y="816" font-family="Arial" font-size="13" fill="#334155">Functions</text>
+<text x="64" y="834" font-family="Courier New" font-size="12" fill="#0f172a">• demonstrate_real_world_safety()</text>
+<rect x="620" y="672" width="520" height="154" fill="#f8fafc" stroke="#94a3b8" rx="12" ry="12"/>
+<rect x="620" y="672" width="520" height="36" fill="#e2e8f0" stroke="#94a3b8" rx="12" ry="12"/>
+<text x="632" y="696" font-family="Arial" font-size="15" font-weight="bold" fill="#0f172a">demo_runner</text>
+<text x="632" y="728" font-family="Arial" font-size="13" fill="#334155">Functions</text>
+<text x="644" y="746" font-family="Courier New" font-size="12" fill="#0f172a">• show_real_world_examples()</text>
+<text x="644" y="762" font-family="Courier New" font-size="12" fill="#0f172a">• test_basic_functionality()</text>
+<text x="644" y="778" font-family="Courier New" font-size="12" fill="#0f172a">• test_comprehensive_examples()</text>
+<rect x="40" y="942" width="520" height="208" fill="#f8fafc" stroke="#94a3b8" rx="12" ry="12"/>
+<rect x="40" y="942" width="520" height="36" fill="#e2e8f0" stroke="#94a3b8" rx="12" ry="12"/>
+<text x="52" y="966" font-family="Arial" font-size="15" font-weight="bold" fill="#0f172a">setup_demo</text>
+<text x="52" y="998" font-family="Arial" font-size="13" fill="#334155">Functions</text>
+<text x="64" y="1016" font-family="Courier New" font-size="12" fill="#0f172a">• check_openai_key()</text>
+<text x="64" y="1032" font-family="Courier New" font-size="12" fill="#0f172a">• check_python_version()</text>
+<text x="64" y="1048" font-family="Courier New" font-size="12" fill="#0f172a">• install_requirements()</text>
+<text x="64" y="1064" font-family="Courier New" font-size="12" fill="#0f172a">• main()</text>
+<text x="64" y="1080" font-family="Courier New" font-size="12" fill="#0f172a">• run_basic_demo()</text>
+<text x="64" y="1096" font-family="Courier New" font-size="12" fill="#0f172a">• show_usage_instructions()</text>
+<path d="M 300.0 110.0 L 300.0 426.0" stroke="#475569" stroke-width="1.5" fill="none" stroke-dasharray="6,4"/>
+<path d="M 300.0 414.0 L 296.5 407.93782217350895 M 300.0 414.0 L 303.5 407.93782217350895" stroke="#475569" stroke-width="1.5" fill="none"/>
+<path d="M 880.0 110.0 L 300.0 426.0" stroke="#475569" stroke-width="1.5" fill="none" stroke-dasharray="6,4"/>
+<path d="M 310.5375229402422 420.2588668118681 L 314.1863872532435 414.2851084282953 M 310.5375229402422 420.2588668118681 L 317.53538161298707 420.43199681010327" stroke="#475569" stroke-width="1.5" fill="none"/>
+<path d="M 880.0 110.0 L 300.0 777.0" stroke="#475569" stroke-width="1.5" fill="none" stroke-dasharray="6,4"/>
+<path d="M 307.87414457909745 767.944733734038 L 309.21089730735764 761.0735553675939 M 307.87414457909745 767.944733734038 L 314.49313596250215 765.6668063720674" stroke="#475569" stroke-width="1.5" fill="none"/>
+<path d="M 880.0 310.0 L 300.0 426.0" stroke="#475569" stroke-width="1.5" fill="none" stroke-dasharray="6,4"/>
+<path d="M 311.76696810829105 423.6466063783418 L 317.02501606456656 419.02568312757177 M 311.76696810829105 423.6466063783418 L 318.3978290105338 425.8897478574082" stroke="#475569" stroke-width="1.5" fill="none"/>
+<path d="M 300.0 777.0 L 300.0 426.0" stroke="#475569" stroke-width="1.5" fill="none" stroke-dasharray="6,4"/>
+<path d="M 300.0 438.0 L 303.5 444.06217782649105 M 300.0 438.0 L 296.5 444.06217782649105" stroke="#475569" stroke-width="1.5" fill="none"/>
+</svg>
