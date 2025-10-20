@@ -1,6 +1,6 @@
 # LLM Safety Labs — AI Safety Demos
 
-> Pin-ready, job-facing repo showcasing AI Safety concepts: hallucination detection, jailbreak prevention, and bias checks for LLMs.
+> Pin-ready repo showcasing AI Safety concepts: hallucination detection, jailbreak prevention, and bias checks for LLMs.
 
 ![UML](docs/uml_overview.svg)
 
